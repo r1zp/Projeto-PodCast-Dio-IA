@@ -4,7 +4,7 @@ O projeto do podcast visa explorar como a inteligência artificial pode ser usad
 
 ## - Sobre o PodCast
 
-O podcast "Inovação Digital - Tendências e Boas Práticas Tecnológicas" apresenta curiosidades sobre a origem do Java, sua transição de uma linguagem para dispositivos domésticos a uma das mais populares na web, e introduz o Eclipse, uma ferramenta essencial para iniciantes programarem em Java, destacando suas funcionalidades e dicas de uso.
+O podcast "Inovação Digital - Tendências e Boas Práticas Tecnológicas" apresenta curiosidades sobre a origem do Java, sua transição de uma linguagem para dispositivos domésticos a uma das mais populares na web, e introduz o Eclipse, uma ferramenta essencial para iniciantes programarem em Java, destacando suas funcionalidades e dicas de uso. [Clique aqui](output) para ouvir o PodCast.
 
 ## - Ferramentas Utilizadas
 
